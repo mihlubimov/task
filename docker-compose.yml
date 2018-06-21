@@ -1,0 +1,7 @@
+web:
+  build: .
+  command: python -u app.py
+  ports:
+    - "8080:8080"
+  volumes:
+    - .:/code
