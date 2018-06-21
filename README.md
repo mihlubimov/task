@@ -5,8 +5,6 @@
 > pip install flask
 ### Далее нужно интерпретировать главный файл проекта
 > python app.py
-либо
-> python3 app.py
 ### Rest API доступно по адресу http://localhost:8080
 
 ## Запуск через Докер
