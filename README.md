@@ -1,8 +1,6 @@
 # Тестовое задание для образовательного курса по blockchain(NapoleonIT)
 
 ## Запуск через Докер
-> docker-compose build
->
 > docker-compose up
 ### Rest API доступно по адресу http://localhost:8080
 
